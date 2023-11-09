@@ -1,2 +1,3 @@
-# MIT Profession Education Applied Data Science
-Loan Default Prediction - Practical Data Science/Classification
+# Loan Default Prediction - Practical Data Science/Classification
+MIT Profession Education Applied Data Science
+
