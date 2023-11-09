@@ -1,2 +1,2 @@
-# Capstone-Project MIT Profession Education Applied Data Science
+# MIT Profession Education Applied Data Science
 Loan Default Prediction - Practical Data Science/Classification
