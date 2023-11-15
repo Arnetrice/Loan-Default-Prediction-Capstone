@@ -1,4 +1,4 @@
-# Capstone Project: Loan Default Prediction
+# Loan Default Prediction
 
 ## Overview
 This repository contains the code and documentation for my capstone project in applied data science. The project focuses on predicting loan default risk using machine learning techniques.
